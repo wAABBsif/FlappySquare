@@ -1,5 +1,5 @@
 include(FetchContent)
-cmake_minimum_required(VERSION 3.26)
+cmake_minimum_required(VERSION 3.20)
 project(FlappySquare)
 
 set(CMAKE_C_STANDARD 99)
